@@ -1,9 +1,9 @@
+python==3.10
+opencv-python-headless
 streamlit
-opencv-python
-torch
-torchvision
+numpy
 pandas
-matplotlib
-plotly
-scikit-learn
 cryptography
+scikit-learn
+requests
+ultralytics
