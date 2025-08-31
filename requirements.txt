@@ -1,6 +1,5 @@
-python==3.10
-opencv-python-headless
 streamlit
+opencv-python-headless
 numpy
 pandas
 cryptography
