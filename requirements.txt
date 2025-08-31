@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+torch
+torchvision
+pandas
+matplotlib
+plotly
+scikit-learn
+cryptography
